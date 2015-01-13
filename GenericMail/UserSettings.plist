@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Data0</key>
+	<array>
+		<dict>
+			<key>hostname</key>
+			<string>imap.gmail.com</string>
+			<key>port</key>
+			<string>993</string>
+			<key>username</key>
+			<string>default@gmail.com</string>
+			<key>password</key>
+			<string>somepassword</string>
+		</dict>
+		<dict>
+			<key>hostname</key>
+			<string>imap.gmail.com</string>
+			<key>port</key>
+			<string>993</string>
+			<key>username</key>
+			<string>americanwell123@gmail.com</string>
+			<key>password</key>
+			<string>American1Well123</string>
+		</dict>
+		<dict>
+			<key>hostname</key>
+			<string>imap.gmail.com</string>
+			<key>port</key>
+			<string>993</string>
+			<key>username</key>
+			<string>qaamericanwell@gmail.com</string>
+			<key>password</key>
+			<string>American1Well1</string>
+		</dict>
+		<dict>
+			<key>hostname</key>
+			<string>imap.gmail.com</string>
+			<key>port</key>
+			<string>993</string>
+			<key>username</key>
+			<string>americanwell7@gmail.com</string>
+			<key>password</key>
+			<string>Vaux100hall</string>
+		</dict>
+	</array>
+</dict>
+</plist>
